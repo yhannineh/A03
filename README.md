@@ -67,7 +67,8 @@ Click 'Push'
 Step 11: Getting comfortable with Github Pages
 
 Select 'Settings' and check Repository name
-Select 'master branch' as source and check the provided URL.
+Under 'Settings' navigate to the side bar and click 'Pages' under 'Code and automation'
+Select 'master branch' as source and check URL to make sure it works.
 
 
 
